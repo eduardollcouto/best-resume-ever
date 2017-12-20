@@ -41,6 +41,12 @@ education:
   timeperiod: 2012-2014
   description: Análise de segurança de sistemas.
 
+- degree: Certificação de iniciação científica
+  timeperiod: 2011
+  description: Publicação do Artigo “Um Sistema de Segurança Baseado em Criptografia Utilizando a 
+               Linguagem de Programação Java” no 19º Simpósio Internacional de Iniciação Científica 
+               na USP/São Carlos.
+
 # skill level goes 0 to 100
 skills:
 - name: Java
